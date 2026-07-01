@@ -2,6 +2,6 @@ Access the original Reddit Mental Health Datasets here:
 https://zenodo.org/records/3941387
 
 The files used were:
-- personalfinance_2019_features_tfidf_256.csv
-- parenting_2019_features_tfidf_256.csv
-- legaladvice_2019_features_tfidf_256.csv
+- personalfinance_2019_features_tfidf_256.csv   (94.5 mb)
+- parenting_2019_features_tfidf_256.csv   (18.7 mb)
+- legaladvice_2019_features_tfidf_256.csv   (160.9 mb)
